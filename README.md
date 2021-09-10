@@ -5,4 +5,4 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=limatucano&show_icons=true&theme=dark&locale=en&layout=compact" alt="limatucano" /></p>
 
-
+![Snake animation](https://github.com/limatucano/limatucano/blob/output/github-contribution-grid-snake.svg)
